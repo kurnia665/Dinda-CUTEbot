@@ -107,7 +107,7 @@ async def pingme(pong):
 @register(outgoing=True, pattern="^.speed$")
 async def speedtst(spd):
     """ For .speed command, use SpeedTest to check server speeds. """
-    await spd.edit("`Menjalankan Tes Kecepatan Tinggi...🚀`")
+    await spd.edit("`🜙Test Speed Server Dinda-CUTEbot...🚀`")
     test = Speedtest()
 
     test.get_best_server()
@@ -127,7 +127,7 @@ async def speedtst(spd):
                    f"`{result['ping']}` \n"
                    "✓ **ISP:** "
                    f"`{result['client']['isp']}` \n"
-                   "✓ **BOT:** ` GabutC-UBot`")
+                   "✓ **BOT:** ` Dinda-CUTEbot`")
 
 
 def speed_convert(size):
@@ -146,12 +146,18 @@ def speed_convert(size):
 @register(outgoing=True, pattern="^.ping$")
 async def pingme(pong):
     """ For .ping command, ping the userbot from any chat.  """
-    uptime = await get_readable_time((time.time() - StartTime))
+    await get_readable_time((time.time() - StartTime))
     start = datetime.now()
-    await pong.edit("`GABUT YA LU?..............`")
+    await pong.edit("**★ PAM ★**")
+    await pong.edit("**★✫ PIM ★✫**")
+    await pong.edit("**★✫★ PAM ★✫★**")
+    await pong.edit("**★✫★✫ PIPUM ★✫★✫**")
     end = datetime.now()
     duration = (end - start).microseconds / 1000
-    await pong.edit(f"**SEPONGGG!!! 😻 **\n**KEGABUTAN :** %sms\n**Bot Uptime  :** {uptime} ⏱" % (duration))
+    await pong.edit(f"**❅ 🜙PING 🜝** "
+                    f"\n  ➥ `%sms` \n"
+                    f"**❅ 🜙OWNER 🜝** "
+                    f"\n  ➥ `{ALIVE_NAME}` \n" % (duration))
 
 
 @register(outgoing=True, pattern="^.pong$")
