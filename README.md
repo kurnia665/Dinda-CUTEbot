@@ -37,10 +37,10 @@ Caranya Pergi Ke Grup Support di Userbot Lalu Ketik #String [TEKAN DISINI](https
 
   > Terakhir Hidupkan Dyno Lalu Check Logs (settings -> view logs) Jika Berhasil Enjoy :)
 ```
-## <p align="center">DEPLOY GabutC-UBot</p>
+## <p align="center">DEPLOY Dinda-CUTEbot</p>
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Ependelope53/GabutC-UBot/tree/Lord-Userbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-magenta?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kurnia665/Dinda-CUTEbot/tree/Lord-Userbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-magenta?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 <br>
 </p>
