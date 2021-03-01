@@ -8,14 +8,14 @@
   </a>
 </p>  
 
-# GabutC-UBot
-![Logo GabutC-UBot](https://telegra.ph/file/971320cca78b5ed555eee.jpg)
+# Dinda-CUTEbot
+![Logo Dinda-CUTEbot](https://telegra.ph/file/4d44ad01b2ece2fc68a50.jpg)
 
 <h3 align="center">Userbot Yang Dikhususkan Untuk Kepuasan dalam Menggunakan Telegram</h3>
 <p align="center">&nbsp;</p>
 
-### Repo GabutC-UBot
-Repo Fork Yang Dikelola Oleh [Hendra](https://t.me/AkuUserBot) 
+### Repo Dinda-CUTEbot
+Repo Fork Yang Dikelola Oleh [Dinda_Au](https://t.me/DevUnyu_DINDA) 
 
 
 ### CARA MENDAPATKAN STRING SESSON
